@@ -1,0 +1,17 @@
+librosa~=0.8.0
+joblib~=1.0.0
+numpy~=1.19.5
+pydub~=0.25.1
+fastdtw~=0.3.4
+scipy~=1.5.2
+pandas~=1.1.0
+matplotlib~=3.3.0
+seaborn~=0.10.1
+spafe~=0.1.2
+sklearn~=0.0
+uvicorn~=0.13.4
+fastapi~=0.65.1
+aiofiles==0.6.0
+python-multipart==0.0.5
+jinja2==2.11.2
+speechrecognition
